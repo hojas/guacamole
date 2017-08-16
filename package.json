@@ -1,0 +1,31 @@
+{
+  "name": "guacamole-client",
+  "version": "1.4.0",
+  "description": "The HTML5/JavaScript Guacamole client, its containing web application, and related components. http://guac-dev.org/",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hojas/guacamole-client.git"
+  },
+  "keywords": [
+    "guacamole"
+  ],
+  "author": "glyptodon",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hojas/guacamole-client/issues"
+  },
+  "homepage": "https://github.com/hojas/guacamole-client#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "through": "^2.3.8"
+  }
+}
