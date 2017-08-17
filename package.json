@@ -1,6 +1,6 @@
 {
   "name": "guacamole-client",
-  "version": "1.4.0",
+  "version": "0.9.13",
   "description": "Guacamole client for Node.js and browser.",
   "main": "index.js",
   "directories": {
