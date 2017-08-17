@@ -1,7 +1,7 @@
 {
   "name": "guacamole-client",
   "version": "1.4.0",
-  "description": "The HTML5/JavaScript Guacamole client, its containing web application, and related components. http://guac-dev.org/",
+  "description": "Guacamole client for Node.js and browser.",
   "main": "index.js",
   "directories": {
     "doc": "doc"
