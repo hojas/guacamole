@@ -1,6 +1,6 @@
 {
   "name": "guacamole-client",
-  "version": "0.9.13",
+  "version": "0.9.13-incubating",
   "description": "Guacamole client for Node.js and browser.",
   "main": "index.js",
   "directories": {
@@ -23,6 +23,7 @@
     "url": "https://github.com/hojas/guacamole-client/issues"
   },
   "homepage": "https://github.com/hojas/guacamole-client#readme",
+  "main": "dist/guacamole.js",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
